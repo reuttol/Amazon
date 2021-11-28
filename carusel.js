@@ -152,9 +152,11 @@ const products = {
 
 let next = document.querySelector('#next');
 let prev = document.querySelector('#prev');
+let cartCount = document.querySelector('.yellow-btn');
 
 next.addEventListener("click", nextProducts);
 prev.addEventListener("click", previosProducts);
+cartCount.addEventListener("click", addCount);
 
 
 function nextProducts(){
@@ -199,6 +201,13 @@ function setCarusel(){
     for(let i=0; i<caruselSize; i++){
         setProduct(prods[i], cards[i])
     }
+}
+
+function addCount(){
+    console.log("here");
+    const ele = document.querySelector(".navbelt__cart--cnt");
+    const qnty = document.querySelector("#qty");
+    ele.innerText = (parseInt(ele.innerText)+parseInt(qnty.value)).toString();
 }
 
 setCarusel();

@@ -52,6 +52,7 @@ ul{
     background: #FFD814;
     border-color: #FCD200;
     box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
+    cursor: pointer;
 }
 .orange-btn{
     background: #FFA41C;
