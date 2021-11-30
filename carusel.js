@@ -31,7 +31,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product2.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 39,
@@ -40,7 +40,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product3.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 40,
@@ -49,7 +49,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product4.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 41,
@@ -58,7 +58,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product5.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 42,
@@ -67,7 +67,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product6.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 43,
@@ -76,7 +76,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product7.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 44,
@@ -85,7 +85,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product8.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 45,
@@ -94,7 +94,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product9.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 46,
@@ -103,7 +103,7 @@ const products = {
             prime: true
         },
         {
-            img: "Assets/Images/product1.jpg",
+            img: "Assets/Images/product10.jpg",
             title:"Collapsible Microwave Splatter Cover,Microwave Cover for Food,Fruit Drainer Basket,BPA-Free Silicone & Plastic and Dishwasher Safe 10.5 inch (GREY)",
             stars: 4.5,
             reviews: 47,

@@ -105,20 +105,70 @@ ul{
     height: 18px;
     width: 15px;
 }
+
 .navbelt__search{
+    /* sdisplay: flex; */
+    position: relative;
+    flex: 0 0 50%;
+}
+.temp{
+    width: 100%;
+}
+.navbelt__search--search{
+    line-height: 4rem;
+    border-radius: 6px;
+    border: none;
+}
+.navbelt__search--search{
+    width: 100%;
+}
+.navbelt__search--btn-container{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: fit-content;
+    padding: 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3A847;
+    border-radius: 0 6px 6px 0;
+}
+.navbelt__search--btn{
+    background: url(Assets/Images/nav-sprite2.png) -10px -290px;
+    height: 24px;
+    width: 24px;
+
+}
+#departments{
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 40px;
+    border-radius:  6px 0 0 6px;
+    height: 100%;
+    border: none;
+    background-color: #DADADA;
+    color: #565959;
+}
+option{
+    font-family: "Amazon Ember";
+}
+/* .navbelt__search{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     /* height: 80%; */
-    width: 50%;
+    /* width: 50%;
 }
 .navbelt__search--dropdown #departments{
     max-width: 55px;
     border-radius: 1rem;
     padding: 1rem;
-    padding-left: 0.5rem;
+    padding-left: 0.5rem; */
     /* width: 100%; */
-}
+/* }
 .navbelt__search--dropdown{
     flex: 0 0 auto;
 }
@@ -133,7 +183,7 @@ ul{
     width: 24px;
     max-width: 24px;
     flex: 0 0 auto;
-}
+} */
 .navbelt__countries{
     border: 1px solid transparent;
     padding: 1rem;
